@@ -1,0 +1,371 @@
+WARNING: Do not connect
+wireless plug-in devices to the data link
+connector. Unauthorized third parties
+could gain access to vehicle data and
+impair the performance of safety related
+systems. Only allow repair facilities that
+follow our service and repair instructions
+to connect their equipment to the data
+link connector.
+We respect your privacy and are
+committed to protecting it. The
+information contained in this publication
+was correct at the time of release, but as
+technology rapidly changes, we
+recommend that you visit the local Ford
+website for the latest information.
+Your vehicle has electronic control units
+that have data recording functionality and
+the ability to permanently or temporarily
+store data. This data could include
+information on the condition and status of
+your vehicle, vehicle maintenance
+requirements, events and malfunctions.
+The types of data that can be recorded are
+described in this section. Some of the data
+recorded is stored in event logs or error
+logs.
+Note: Error logs are reset following a service
+or repair.
+Note: We may provide information in
+response to requests from law enforcement,
+other government authorities and third
+parties acting with lawful authority or
+through a legal process. Such information
+could be used by them in legal proceedings.
+Data recorded includes, for example:
+•
+Operating states of system
+components, for example fuel level,
+tire pressure and battery charge level.
+•
+Vehicle and component status, for
+example wheel speed, deceleration,
+lateral acceleration and seatbelt
+status.
+•
+Events or errors in essential systems,
+for example headlamps and brakes.
+•
+System responses to driving situations,
+for example airbag deployment and
+stability control.
+•
+Environmental conditions, for example
+temperature.
+Some of this data, when used in
+combination with other information, for
+example an accident report, damage to a
+vehicle or eyewitness statements, could
+be associated with a specific person.
+Services That We Provide
+If you use our services, we collect and use
+data, for example account information,
+vehicle location and driving characteristics,
+that could identify you. We transmit this
+data through a dedicated, protected
+connection. We only collect and use data
+to enable your use of our services to which
+you have subscribed, with your consent or
+where permitted by law. For additional
+information, see the terms and conditions
+of the services to which you have
+subscribed.
+For additional information about our
+privacy policy, refer to the local Ford
+website.
+Services That Third Parties
+Provide
+We recommend that you review the terms
+and conditions and data privacy
+information for any services equipped with
+your vehicle or to which you subscribe. We
+take no responsibility for services that third
+parties provide.
+Where equipped, SiriusXM with 360L could
+use the modem. To disable, turn off the
+SiriusXM with 360L or Vehicle Connectivity
+setting.  See Enabling and Disabling the
+Modem (page 440).
+24
+Expedition (TBD) Canada/Mexico/United States of America, enUSA, Edition date: 202409, DOM
+Data Privacy
+
+
+Note: Consistent with your data and
+connectivity settings, data may be accessed
+by third parties.
+SERVICE DATA
+Service data recorders in your vehicle are
+capable of collecting and storing
+diagnostic information about your vehicle.
+This potentially includes information about
+the performance or status of various
+systems and modules in the vehicle, such
+as engine, throttle, steering or brake
+systems. In order to properly diagnose and
+service your vehicle, Ford Motor Company
+(Ford of Canada in Canada), and service
+and repair facilities may access or share
+among them vehicle diagnostic
+information received through a direct
+connection to your vehicle when
+diagnosing or servicing your vehicle.
+Additionally, Ford Motor Company (Ford
+of Canada, in Canada) may, where
+permitted by law, use vehicle diagnostic
+information for vehicle improvement or
+with other information we may have about
+you, for example, your contact information,
+to offer you products or services that may
+interest you. Data may be provided to our
+service providers such as part suppliers
+that may help diagnose malfunctions, and
+who are similarly obligated to protect data.
+We retain this data only as long as
+necessary to perform these functions or to
+comply with law. We may provide
+information where required in response to
+official requests to law enforcement or
+other government authorities or third
+parties acting with lawful authority or court
+order, and such information may be used
+in legal proceedings. For U.S. only (if
+equipped), if you choose to use connected
+apps and services, you consent that certain
+diagnostic information may also be
+accessed electronically by Ford Motor
+Company and Ford authorized service
+facilities, and that the diagnostic
+information may be used to provide
+services to you, personalizing your
+experience, troubleshoot, and to improve
+products and services and offer you
+products and services that may interest
+you, where permitted by law. For Canada
+only, for more information, please review
+the Ford of Canada privacy policy at
+www.ford.ca, including our U.S. data
+storage and use of service providers in
+other jurisdictions who may be subject to
+legal requirements in Canada, the United
+States and other countries applicable to
+them, for example, lawful requirements to
+disclose personal information to
+governmental authorities in those
+countries.
+EVENT DATA
+This vehicle is equipped with an event data
+recorder. The main purpose of an event
+data recorder is to record, in certain crash
+or near crash-like situations, such as an
+airbag deployment or hitting a road
+obstacle; this data will assist in
+understanding how a vehicle’s systems
+performed. The event data recorder is
+designed to record data related to vehicle
+dynamics and safety systems for a short
+period of time, typically 30 seconds or less.
+The event data recorder in this vehicle is
+designed to record such data as:
+•
+How various systems in your vehicle
+were operating.
+•
+Whether or not the driver and
+passenger seatbelts were
+buckled/fastened.
+•
+How far (if at all) the driver was
+depressing the accelerator and/or the
+brake pedal.
+•
+How fast the vehicle was traveling.
+•
+Where the driver was positioning the
+steering wheel.
+25
+Expedition (TBD) Canada/Mexico/United States of America, enUSA, Edition date: 202409, DOM
+Data Privacy
+
+
+This data can help provide a better
+understanding of the circumstances in
+which crashes and injuries occur.
+Note: Event data recorder data is recorded
+by your vehicle only if a non-trivial crash
+situation occurs; no data is recorded by the
+event data recorder under normal driving
+conditions and no personal data or
+information (for example name, gender,
+age, and crash location) is recorded.
+However, parties, such as law enforcement,
+could combine the event data recorder data
+with the type of personally identifying data
+routinely acquired during a crash
+investigation.
+To read data recorded by an event data
+recorder, special equipment is required,
+and access to the vehicle or the event data
+recorder is needed. In addition to the
+vehicle manufacturer, other parties, such
+as law enforcement, that have such special
+equipment, can read the information if they
+have access to the vehicle or the event
+data recorder.
+BlueCruise Data (If Equipped)
+If BlueCruise is active in certain crash or
+near crash-like situations, such as an
+airbag deployment or hitting a road
+obstacle, the system may record driver
+attentiveness, based on the direction of
+eyes and duration, and photographs of the
+driver seat area.
+Note: No data is recorded under normal
+driving conditions.
+SETTINGS DATA
+Your vehicle has electronic control units
+that have the ability to store data based
+on your personalized settings. The data is
+stored locally in the vehicle or on devices
+that you connect to it, for example, a USB
+drive or mobile device. You can delete
+some of this data and also choose whether
+to share it through the services to which
+you subscribe.  See Settings (page 453).
+Comfort and Convenience Data
+Data recorded includes, for example:
+•
+Seat and steering wheel position.
+•
+Climate control settings.
+•
+Radio presets.
+Entertainment Data
+Data recorded includes, for example:
+•
+Music, videos or album art.
+•
+Contacts and corresponding address
+book entries.
+•
+Navigation destinations.
+CONNECTED VEHICLE DATA
+The modem has a SIM. The modem was
+enabled when your vehicle was built and
+periodically sends messages to stay
+connected to the cell phone network,
+receive automatic software updates and
+send vehicle-related information to us, for
+example diagnostic information. These
+messages could include information that
+identifies your vehicle, the SIM and the
+electronic serial number of the modem.
+Cell phone network service providers could
+have access to additional information, for
+example cell phone network tower
+identification.  For additional information
+about our privacy policy, visit
+www.FordConnected.com or refer to your
+local Ford website.
+26
+Expedition (TBD) Canada/Mexico/United States of America, enUSA, Edition date: 202409, DOM
+Data Privacy
+
+
+Note: The modem may continue to send
+this information unless you disable the
+modem or stop the modem from sharing
+vehicle data by changing the connectivity
+settings.  See Connected Vehicle (page
+440).
+Note: The service can be unavailable or
+interrupted for a number of reasons, for
+example environmental or topographical
+conditions and data plan coverage.
+Note: To find out if your vehicle has
+connectivity technology, visit
+www.FordConnected.com.
+MOBILE DEVICE DATA
+If you connect a mobile device to your
+vehicle, you can display data from your
+device on the touchscreen for example,
+music and album art. You can grant apps
+permission to access your connected
+vehicle information with mobile apps on
+your device through the system.
+The mobile apps function operates by your
+connected device sending data to us in the
+United States. The data is encrypted and
+includes, for example, the vehicle
+identification number of your vehicle, the
+operating system module serial number,
+odometer, enabled apps, usage statistics
+and debugging information. We retain it
+only as long as necessary to provide the
+service, to troubleshoot, for continuous
+improvement and to offer you products
+and services that may be of interest to you
+according to your preferences and where
+allowed by law.
+If you connect a cell phone to the system,
+the system creates a profile that links to
+that cell phone. The cell phone profile
+enables more mobile features and efficient
+operation. The profile contains, for
+example data from your phonebook, read
+and unread text messages and call history,
+including history of calls when your cell
+phone was not connected to the system.
+If you connect a media device, the system
+creates and retains a media device index
+of supported media content. The system
+also records a short diagnostic log of
+approximately 10 minutes of all recent
+system activity.
+The cell phone profile, media device index
+and diagnostic log remain in your vehicle
+unless you delete them and are generally
+accessible only in your vehicle when you
+connect your cell phone or media device.
+If you no longer plan to use the system or
+your vehicle, we recommend you use the
+applicable reset function to erase the
+stored information.  See Performing a
+System Reset (page 468).
+System data cannot be accessed without
+special equipment and access to your
+vehicle's module.
+For additional information about our
+privacy policy, refer to the local Ford
+website.
+Note: To find out if your vehicle has
+connectivity technology, visit
+www.FordConnected.com.
+EMERGENCY CALL SYSTEM
+DATA
+When the emergency call system is active,
+it may disclose to emergency services that
+your vehicle has been in a crash involving
+the deployment of an airbag or activation
+of the fuel pump shut-off. Certain versions
+or updates to the emergency call system
+may also be capable of electronically or
+27
+Expedition (TBD) Canada/Mexico/United States of America, enUSA, Edition date: 202409, DOM
+Data Privacy
+
+
+verbally disclosing to emergency services
+operators your vehicle location or other
+details about your vehicle or crash to assist
+emergency services operators to provide
+the most appropriate emergency services.
+If you do not want to disclose this
+information, do not activate the emergency
+call system.
+Note: You cannot deactivate emergency
+call systems that are required by law.
+28
+Expedition (TBD) Canada/Mexico/United States of America, enUSA, Edition date: 202409, DOM
+Data Privacy

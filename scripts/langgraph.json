@@ -1,0 +1,10 @@
+{
+  "graphs": {
+    "agent": "./driver.py:build_graph"
+  },
+  "env": "../.env",
+  "python_version": "3.13",
+  "dependencies": [
+    "."
+  ]
+}

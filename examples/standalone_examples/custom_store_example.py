@@ -10,11 +10,15 @@ The example demonstrates that the memory manager can work independently of LangG
 context store, making it usable in standalone applications.
 """
 
+from typing import override
 from langgraph.store.memory import InMemoryStore
 from pydantic import BaseModel
 
 from langmem import create_memory_store_manager
 
+from dotenv import load_dotenv
+
+load_dotenv(override=True)
 
 class PreferenceMemory(BaseModel):
     """Store preferences about the user."""
@@ -72,4 +76,4 @@ if __name__ == "__main__":
     import asyncio
     print("\nStarting custom store example...\n")
     asyncio.run(run_example())
-    print("\nExample completed.\n") 
+    print("\nExample completed.\n")
